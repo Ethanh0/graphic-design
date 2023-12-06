@@ -1,9 +1,9 @@
 body{
-    background-color: aquamarine;
+    background-color: white;
 }
 
 header{
-    background-color:blue;
+    background-color: #eac4d5;
     padding: 20px 0px 20px 0px;
 }
 
@@ -15,28 +15,28 @@ p{
 
 .carp-project {
     height: 725px;
-    background-color: blueviolet;
+    background-color: #d6eadf;
     display: flex;
     justify-content: center;
 }
 
 .typography-project {
     height: 725px;
-    background-color: blue;
+    background-color: #b8e0d2;
     display: flex;
     justify-content: center;
 }
 
 .coding-worksheets {
     height:725px;
-    background-color: red;
+    background-color: #95b8d1;
     display: flex;
     justify-content: center;
 }
 
 .reflective-essay {
     height:725px;
-    background-color: green;
+    background-color: #809bce;
     display: flex;
     justify-content: center;
 }
