@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+
+header{
+    background-color:blue;
+    padding: 20px 0px 20px 0px;
+}
+
+.carp-project {
+    height: 700px;
+    background-color: blueviolet;
+}
