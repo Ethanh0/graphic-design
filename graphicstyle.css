@@ -38,6 +38,20 @@ p{
     background-color: #95b8d1;
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.coding-worksheets img{
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    margin-right: 20px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
 }
 
 .reflective-essay {
