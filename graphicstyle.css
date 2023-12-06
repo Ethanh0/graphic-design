@@ -34,7 +34,7 @@ p{
 }
 
 .coding-worksheets {
-    height:725px;
+    height: 800px;
     background-color: #95b8d1;
     display: flex;
     justify-content: center;
@@ -80,7 +80,7 @@ button {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
     padding: 15px 32px;
-    margin: 4px 2px;
+    margin: none;
     transition-duration: .4s;
     margin-right: 30px;
 
