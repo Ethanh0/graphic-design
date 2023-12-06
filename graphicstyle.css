@@ -53,6 +53,12 @@ p{
     margin-top: 100px;
 }
 
+.coding-worksheets h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style:inset;
+    background-color: #add8e6;
+}
+
 .image-container {
     display: flex;
     justify-content: center;
