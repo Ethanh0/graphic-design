@@ -246,10 +246,14 @@ p{
     border-style: dashed;
     border-color: black;
     position: relative;
-    width: 200px;
-    height: 400px;
-    bottom: 2800px;
+    width: 300px;
+    height: 600px;
+    bottom: 3000px;
     left: 300px;
+}
+
+.reflecttypo p{
+    font-size: 1.3em;
 }
 
 .typobutton {
