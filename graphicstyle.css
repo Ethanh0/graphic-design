@@ -135,7 +135,7 @@ button:active {
     border-color: black;
     position: relative;
     right: 450px;
-    bottom: 230px;
+    bottom: 265px;
     width: 200px;
     height: 400px;
 }
@@ -152,7 +152,7 @@ button:active {
     position: relative;
     width: 200px;
     height: 400px;
-    bottom: 635px;
+    bottom: 670px;
     right: 200px;
 }
 
@@ -169,7 +169,7 @@ button:active {
     width: 200px;
     height: 400px;
     left: 50px;
-    bottom: 1040px;
+    bottom: 1075px;
 }
 
 .grid p{
@@ -200,6 +200,8 @@ button:active {
     position: relative;
     width: 200px;
     height: 400px;
+    bottom: 1445px;
+    right: 450px;
 }
 
 .radial p{
@@ -214,6 +216,8 @@ button:active {
     position: relative;
     width: 200px;
     height: 400px;
+    bottom: 1850px;
+    right: 200px;
 }
 
 .random p{
@@ -228,8 +232,22 @@ button:active {
     position: relative;
     width: 200px;
     height: 400px;
+    bottom: 2255px;
+    left: 50px;
 }
 
 .transitional p{
     font-size: 0.7em;
+}
+
+.reflecttypo {
+    display: column;
+    justify-content: center;
+    border-style: dashed;
+    border-color: black;
+    position: relative;
+    width: 200px;
+    height: 400px;
+    bottom: 2800px;
+    left: 300px;
 }
