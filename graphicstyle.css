@@ -11,6 +11,7 @@ h1{
     font-size: 70px;
     text-align: center;
     justify-content: center;
+    margin: none;
 }
 
 p{
@@ -27,7 +28,7 @@ p{
 }
 
 .typography-project {
-    height: 725px;
+    height: 1000px;
     background-color: #b8e0d2;
     display: flex;
     justify-content: center;
@@ -108,6 +109,133 @@ button:active {
     width: 200px; 
     height: auto;     
     display: block;   
-    margin: 0 auto;   
-    margin-bottom: 20px; 
+    margin: 0 auto;    
+}
+
+.axial {
+    display: column;
+    justify-content: center;
+    border-style: dashed;
+    border-color: black;
+    position: relative;
+    right: 700px;
+    top: 125px;
+    width: 200px;
+    height: 400px;
+}
+
+.axial p{
+    font-size: 0.7em;
+}
+
+.bilateral {
+    display: column;
+    justify-content: center;
+    border-style: dashed;
+    border-color: black;
+    position: relative;
+    right: 700px;
+    top: 150px;
+    width: 200px;
+    height: 400px;
+}
+
+.bilateral p{
+    font-size: 0.7em;
+}
+
+.dilational {
+    display: column;
+    justify-content: center;
+    border-style: dashed;
+    border-color: black;
+    position: relative;
+    right: 700px;
+    top: 150px;
+    width: 200px;
+    height: 400px;
+}
+
+.dilational p{
+    font-size: 0.7em;
+}
+
+.grid {
+    display: column;
+    justify-content: center;
+    border-style: dashed;
+    border-color: black;
+    position: relative;
+    right: 700px;
+    top: 150px;
+    width: 200px;
+    height: 400px;
+}
+
+.grid p{
+    font-size: 0.7em;
+}
+
+.modular {
+    display: column;
+    justify-content: center;
+    border-style: dashed;
+    border-color: black;
+    position: relative;
+    right: 700px;
+    top: 150px;
+    width: 200px;
+    height: 400px;
+}
+
+.modular p{
+    font-size: 0.7em;
+}
+
+.radial {
+    display: column;
+    justify-content: center;
+    border-style: dashed;
+    border-color: black;
+    position: relative;
+    right: 700px;
+    top: 150px;
+    width: 200px;
+    height: 400px;
+}
+
+.radial p{
+    font-size: 0.7em;
+}
+
+.random {
+    display: column;
+    justify-content: center;
+    border-style: dashed;
+    border-color: black;
+    position: relative;
+    right: 700px;
+    top: 150px;
+    width: 200px;
+    height: 400px;
+}
+
+.random p{
+    font-size: 0.7em;
+}
+
+.transitional {
+    display: column;
+    justify-content: center;
+    border-style: dashed;
+    border-color: black;
+    position: relative;
+    right: 700px;
+    top: 150px;
+    width: 200px;
+    height: 400px;
+}
+
+.transitional p{
+    font-size: 0.7em;
 }
