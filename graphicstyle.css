@@ -107,7 +107,7 @@ button:active {
 
 .typography-project img {
     width: 200px; 
-    height: auto;     
+    height: 200px;     
     display: block;   
     margin: 0 auto;    
 }
@@ -119,7 +119,7 @@ button:active {
     border-color: black;
     position: relative;
     right: 700px;
-    top: 125px;
+    top: 140px;
     width: 200px;
     height: 400px;
 }
@@ -134,8 +134,8 @@ button:active {
     border-style: dashed;
     border-color: black;
     position: relative;
-    right: 700px;
-    top: 150px;
+    right: 450px;
+    bottom: 230px;
     width: 200px;
     height: 400px;
 }
@@ -150,10 +150,10 @@ button:active {
     border-style: dashed;
     border-color: black;
     position: relative;
-    right: 700px;
-    top: 150px;
     width: 200px;
     height: 400px;
+    bottom: 635px;
+    right: 200px;
 }
 
 .dilational p{
@@ -166,10 +166,10 @@ button:active {
     border-style: dashed;
     border-color: black;
     position: relative;
-    right: 700px;
-    top: 150px;
     width: 200px;
     height: 400px;
+    left: 50px;
+    bottom: 1040px;
 }
 
 .grid p{
@@ -182,10 +182,10 @@ button:active {
     border-style: dashed;
     border-color: black;
     position: relative;
-    right: 700px;
-    top: 150px;
     width: 200px;
     height: 400px;
+    right: 700px;
+    bottom: 1040px;
 }
 
 .modular p{
@@ -198,8 +198,6 @@ button:active {
     border-style: dashed;
     border-color: black;
     position: relative;
-    right: 700px;
-    top: 150px;
     width: 200px;
     height: 400px;
 }
@@ -214,8 +212,6 @@ button:active {
     border-style: dashed;
     border-color: black;
     position: relative;
-    right: 700px;
-    top: 150px;
     width: 200px;
     height: 400px;
 }
@@ -230,8 +226,6 @@ button:active {
     border-style: dashed;
     border-color: black;
     position: relative;
-    right: 700px;
-    top: 150px;
     width: 200px;
     height: 400px;
 }
