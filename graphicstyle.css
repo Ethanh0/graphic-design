@@ -183,9 +183,9 @@ p{
     border-color: black;
     position: relative;
     width: 200px;
-    height: 400px;
+    height: 420px;
     right: 700px;
-    bottom: 1040px;
+    bottom: 1060px;
 }
 
 .modular p{
@@ -199,8 +199,8 @@ p{
     border-color: black;
     position: relative;
     width: 200px;
-    height: 400px;
-    bottom: 1445px;
+    height: 420px;
+    bottom: 1485px;
     right: 450px;
 }
 
@@ -215,8 +215,8 @@ p{
     border-color: black;
     position: relative;
     width: 200px;
-    height: 400px;
-    bottom: 1850px;
+    height: 420px;
+    bottom: 1910px;
     right: 200px;
 }
 
@@ -231,8 +231,8 @@ p{
     border-color: black;
     position: relative;
     width: 200px;
-    height: 400px;
-    bottom: 2255px;
+    height: 420px;
+    bottom: 2335px;
     left: 50px;
 }
 
@@ -247,8 +247,8 @@ p{
     border-color: black;
     position: relative;
     width: 300px;
-    height: 600px;
-    bottom: 3000px;
+    height: 500px;
+    bottom: 3050px;
     left: 300px;
 }
 
@@ -269,17 +269,17 @@ p{
     transition-duration: 0.4s;
     position: absolute;
     top: 1900px;
-    right: 125px; 
+    right: 120px; 
     height: 75px;
     width: 200px;
 }
     
-.typobutton {
+.typobutton:hover {
     background-color: lightblue;
     color: white;
 }
     
-.typobutton {
+.typobutton:active {
     background-color: lightgoldenrodyellow;
     box-shadow: 0 5px darkred;
     transform: translateY(4px);
