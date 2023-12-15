@@ -24,7 +24,7 @@ p{
     height: 725px;
     background-color: #d6eadf;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .typography-project {
@@ -298,4 +298,27 @@ p{
 
 .scroll-essay p{
     font-size: 1.2em;
+}
+
+.container{
+    display: flex;
+}
+
+.box1{
+    flex: 1 1 auto;
+}
+
+.box2{
+    flex: 1 1 auto;
+}
+
+.box3{
+    flex: 1 1 auto;
+}
+
+.carp-project img {
+    width: 200px; 
+    height: 300px;     
+    display: block;   
+    margin: 0 auto;    
 }
