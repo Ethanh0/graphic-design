@@ -70,8 +70,10 @@ p{
 .reflective-essay {
     height:725px;
     background-color: #809bce;
-    display: flex;
     justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .codebutton {
@@ -284,4 +286,17 @@ p{
     box-shadow: 0 5px darkred;
     transform: translateY(4px);
 }
+
+.scroll-essay {
+    width: 750px;
+    height: 500px;
+    overflow: auto;
+    border: 1px solid;
+    padding: 10px;
+    margin-bottom: 100px;
     
+}
+
+.scroll-essay p{
+    font-size: 1.2em;
+}
