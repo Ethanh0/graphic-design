@@ -24,7 +24,7 @@ p{
     height: 725px;
     background-color: #d6eadf;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
 }
 
 .typography-project {
